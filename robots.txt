@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://abbassgharib2.github.io/seeb/sitemap.xml
